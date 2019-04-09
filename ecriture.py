@@ -1,0 +1,25 @@
+# -*- coding: utf-8 -*-
+
+def ecriture(var1,var2,var3,var4,var5,var6,var7,fichier) :
+               
+    wr1 = str(var1)
+    wr2 = str(var2)
+    wr3 = str(var3)
+    wr4 = str(var4)
+    wr5 = str(var5)
+    wr6 = str(var6)
+    wr7 = str(var7)
+    fichier.write(wr1)
+    fichier.write("       ")
+    fichier.write(wr2)
+    fichier.write("  ")
+    fichier.write(wr3)
+    fichier.write("      ")
+    fichier.write(wr4)
+    fichier.write("      ")
+    fichier.write(wr5)
+    fichier.write("      ")
+    fichier.write(wr6)
+    fichier.write("      ")
+    fichier.write(wr7)
+    fichier.write('\n')

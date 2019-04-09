@@ -1,0 +1,22 @@
+temps de mesures etalons bas en seconde :  180
+temps de mesures etalons haut en seconde : 180
+temps de mesures etalons moy en seconde : 180
+temps de mesures azotes en seconde : 180
+temps de mesures air atmospherique en seconde : 180 
+temps de mesures eau de mers en seconde : 1800
+
+temps de rincage etalons bas en seconde : 180
+temps de rincage etalons haut en seconde : 180
+temps de rincage etalons moy en seconde : 180
+temps de rincage azotes en seconde : 240
+temps de rincage air atmospherique en seconde : 180 
+temps de rincage eau de mers en seconde : 600
+
+Module electronique : (ON/OFF)
+Capteur pression 0 : ON
+Capteur pression 1 : ON
+Sonde temperature : ON
+Optode : ON
+GPS : ON
+Salinite : OFF
+Li-cor : ON
